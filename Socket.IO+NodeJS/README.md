@@ -13,7 +13,6 @@ Create a notification system using NodeJS and Socket.IO
   - These messages should be persisted in db and when users come back online they should receive the messages intended for them.
   - Chat rooms should be persisted in db layer so when server restarts data is not lost
   - when user connects to socket he should be automatically added to chat rooms he was part of and receive notifications that were shared when he was offline
-  - optionally 
   - No frontend is necessary
   
 
